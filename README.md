@@ -15,6 +15,6 @@ Just run Index.html
 
 ## Live at
 
-#[vaibhavdek.netlify.app](https://www.vaibhavdek.netlify.app)
+[vaibhavdek.netlify.app](https://vaibhavdek.netlify.app/)
 
 
