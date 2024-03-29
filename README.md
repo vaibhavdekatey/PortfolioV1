@@ -5,8 +5,6 @@ A single page Portfolio using HTML, CSS, Bootstrap.
 
 ## Deployment
 
-To deploy this project run
-
 Just run Index.html
 
 ## Snapshot 
